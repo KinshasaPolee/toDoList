@@ -3,7 +3,7 @@ User is able to type a task in the input area and proceed to add the task using 
 
 ## Authors
 - [@KinshasaPolee](https://github.com/KinshasaPolee)
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
